@@ -9,8 +9,12 @@ The objective of this project is to make the management of data concerning the a
   * Display
   * Update
   * Delete data related to :
+  
           * Passengers
+          
           * Pilots
+          
           * Crew members
+          
 
 This project not just helps manage the above data, but also selects efficient pilots and crew members for any given flight. It also selects an appropriate aircraft on the basis of number of passengers.
