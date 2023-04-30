@@ -2,9 +2,12 @@
 My class 12 School Team Project
 
 Front End: Python (version: 3.8, 32-bit)
+
 Back End: MySQL + Python
 
-The objective of this project is to make the management of data concerning the aircraft staff and passengers easier. We have the following modules that allow the user to:
+The objective of this project was to make the management of data concerning the aircraft staff and passengers easier. 
+We have the following modules that allow the user to:
+
   * Insert
   * Display
   * Update
