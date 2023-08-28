@@ -1,5 +1,4 @@
 # Aircrafts-Company-DBMS
-My class 12 School Team Project
 
 Front End: Python (version: 3.8, 32-bit)
 
@@ -20,4 +19,4 @@ We have the following modules that allow the user to:
           * Crew members
           
 
-This project not just helps manage the above data, but also selects efficient pilots and crew members for any given flight. It also selects an appropriate aircraft on the basis of number of passengers.
+This project helps manage the above data and selects efficient pilots and crew members for any given flight. It also selects an appropriate aircraft on the basis of number of passengers.
